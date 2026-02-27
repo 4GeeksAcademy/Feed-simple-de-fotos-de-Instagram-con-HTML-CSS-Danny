@@ -1,0 +1,34 @@
+body{
+    background: #BDBDBDBD;
+    margin: 0;
+}
+
+header {
+    background: white;
+}
+
+header h1 {
+    margin: 0;
+}
+
+div.post {
+    background: white;
+}
+
+.post_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+div.post img{
+    width: 100%;
+
+}
+
+div.container{
+    width: 600px;
+    margin: auto;
+}
+
